@@ -8,6 +8,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/manyasethi20/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/manyasethi20/Leetcode/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Two Pointers
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

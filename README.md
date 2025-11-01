@@ -13,6 +13,7 @@ A collection of LeetCode questions.
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manyasethi20/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/manyasethi20/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/manyasethi20/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +73,12 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

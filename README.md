@@ -10,6 +10,7 @@ A collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/manyasethi20/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/manyasethi20/Leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manyasethi20/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/manyasethi20/Leetcode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |

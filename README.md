@@ -9,6 +9,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/manyasethi20/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/manyasethi20/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/manyasethi20/Leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Dynamic Programming
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |

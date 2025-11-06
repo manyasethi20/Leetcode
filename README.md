@@ -71,6 +71,7 @@ A collection of LeetCode questions.
 | [0013-roman-to-integer](https://github.com/manyasethi20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |

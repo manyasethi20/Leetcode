@@ -15,6 +15,7 @@ A collection of LeetCode questions.
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manyasethi20/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions.
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -121,5 +123,10 @@ A collection of LeetCode questions.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

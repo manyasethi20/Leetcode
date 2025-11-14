@@ -20,6 +20,7 @@ A collection of LeetCode questions.
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manyasethi20/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/manyasethi20/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/manyasethi20/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manyasethi20/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0056-merge-intervals](https://github.com/manyasethi20/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
@@ -146,4 +150,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

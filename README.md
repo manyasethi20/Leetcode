@@ -21,6 +21,7 @@ A collection of LeetCode questions.
 | [0119-pascals-triangle-ii](https://github.com/manyasethi20/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions.
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions.
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |

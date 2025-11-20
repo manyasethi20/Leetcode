@@ -29,6 +29,7 @@ A collection of LeetCode questions.
 | [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/manyasethi20/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions.
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/manyasethi20/Leetcode/tree/master/0274-h-index) |
 ## Design
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/manyasethi20/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

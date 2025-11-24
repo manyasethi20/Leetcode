@@ -37,6 +37,7 @@ A collection of LeetCode questions.
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manyasethi20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/manyasethi20/Leetcode/tree/master/0792-binary-search) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0029-divide-two-integers](https://github.com/manyasethi20/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |

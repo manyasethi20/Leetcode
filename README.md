@@ -24,6 +24,7 @@ A collection of LeetCode questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manyasethi20/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manyasethi20/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/manyasethi20/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/manyasethi20/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions.
 | [0055-jump-game](https://github.com/manyasethi20/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manyasethi20/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/manyasethi20/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/manyasethi20/Leetcode/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |

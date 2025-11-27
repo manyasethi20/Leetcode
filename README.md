@@ -8,6 +8,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/manyasethi20/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/manyasethi20/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/manyasethi20/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manyasethi20/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0012-integer-to-roman](https://github.com/manyasethi20/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manyasethi20/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/manyasethi20/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/manyasethi20/Leetcode/tree/master/0058-length-of-last-word) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manyasethi20/Leetcode/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manyasethi20/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

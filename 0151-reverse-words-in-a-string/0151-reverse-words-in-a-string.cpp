@@ -7,6 +7,8 @@ public:
         reverse(s.begin(), s.end());
 
         for(int i = 0; i < n; i++) {
+            if(s[i] == ' ') continue;
+
             string word = "";
             while(i < n && s[i] != ' ') {
                 word += s[i];
@@ -14,11 +16,12 @@ public:
             }
 
             reverse(word.begin(), word.end());
-            if(word.length() > 0) {
-                ans += " " + word;
+            if(!ans.empty()) {
+                ans += " ";
             }
+            ans += word;
         }
 
-        return ans.substr(1);
+        return ans;
     }
 };

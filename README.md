@@ -152,6 +152,7 @@ A collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/manyasethi20/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/manyasethi20/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manyasethi20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manyasethi20/Leetcode/tree/master/0014-longest-common-prefix) |

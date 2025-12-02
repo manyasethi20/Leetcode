@@ -55,6 +55,7 @@ A collection of LeetCode questions.
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/manyasethi20/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manyasethi20/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manyasethi20/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/manyasethi20/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Divide and Conquer
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions.
 | [0058-length-of-last-word](https://github.com/manyasethi20/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/manyasethi20/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation

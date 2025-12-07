@@ -130,6 +130,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/manyasethi20/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/manyasethi20/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search

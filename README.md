@@ -44,6 +44,7 @@ A collection of LeetCode questions.
 | [0485-max-consecutive-ones](https://github.com/manyasethi20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/manyasethi20/Leetcode/tree/master/0792-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
+| [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 ## Counting Sort
 |  |
 | ------- |

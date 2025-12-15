@@ -44,6 +44,7 @@ A collection of LeetCode questions.
 | [0485-max-consecutive-ones](https://github.com/manyasethi20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/manyasethi20/Leetcode/tree/master/0792-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/manyasethi20/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manyasethi20/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions.
 | [0152-maximum-product-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/manyasethi20/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manyasethi20/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/manyasethi20/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/manyasethi20/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manyasethi20/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

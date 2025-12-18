@@ -1,21 +1,22 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_set<char> row[9], col[9], box[9];
+        unordered_set<string> seen;
 
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                char c = board[i][j];
-                if (c == '.') continue;
+                if (board[i][j] == '.') continue;
 
-                int boxId = (i / 3) * 3 + (j / 3);
+                string r = "row" + to_string(i) + board[i][j];
+                string c = "col" + to_string(j) + board[i][j];
+                string b = "box" + to_string((i/3)*3 + j/3) + board[i][j];
 
-                if (row[i].count(c) || col[j].count(c) || box[boxId].count(c))
+                if (seen.count(r) || seen.count(c) || seen.count(b))
                     return false;
 
-                row[i].insert(c);
-                col[j].insert(c);
-                box[boxId].insert(c);
+                seen.insert(r);
+                seen.insert(c);
+                seen.insert(b);
             }
         }
         return true;

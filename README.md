@@ -14,6 +14,7 @@ A collection of LeetCode questions.
 | [0027-remove-element](https://github.com/manyasethi20/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/manyasethi20/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/manyasethi20/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manyasethi20/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions.
 | [0012-integer-to-roman](https://github.com/manyasethi20/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manyasethi20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/manyasethi20/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/manyasethi20/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/manyasethi20/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Dynamic Programming

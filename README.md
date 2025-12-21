@@ -23,6 +23,7 @@ A collection of LeetCode questions.
 | [0055-jump-game](https://github.com/manyasethi20/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/manyasethi20/Leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions.
 | [0013-roman-to-integer](https://github.com/manyasethi20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/manyasethi20/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/manyasethi20/Leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions.
 | [0036-valid-sudoku](https://github.com/manyasethi20/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Dynamic Programming
 |  |

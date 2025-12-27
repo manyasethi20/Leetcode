@@ -52,6 +52,7 @@ A collection of LeetCode questions.
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manyasethi20/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manyasethi20/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/manyasethi20/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 ## Depth-First Search
@@ -199,6 +201,7 @@ A collection of LeetCode questions.
 | [0274-h-index](https://github.com/manyasethi20/Leetcode/tree/master/0274-h-index) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/manyasethi20/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manyasethi20/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manyasethi20/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions.
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
+| [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
@@ -316,4 +320,5 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->

@@ -52,6 +52,7 @@ A collection of LeetCode questions.
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/manyasethi20/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manyasethi20/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -118,12 +119,14 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/manyasethi20/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/manyasethi20/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Matrix
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions.
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manyasethi20/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/manyasethi20/Leetcode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manyasethi20/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Bit Manipulation
 |  |
@@ -321,6 +326,7 @@ A collection of LeetCode questions.
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/manyasethi20/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |

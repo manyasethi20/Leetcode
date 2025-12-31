@@ -1,49 +1,53 @@
 class Solution {
 public:
+    vector<int> parent, rank;
+    int find(int x) {
+        if (parent[x] != x)
+            parent[x] = find(parent[x]);
+        return parent[x];
+    }
+
+    void unite(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return;
+        if (rank[a] < rank[b]) swap(a, b);
+        parent[b] = a;
+        if (rank[a] == rank[b]) rank[a]++;
+    }
+
     int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
-        int lo = 1, hi = cells.size(), ans = 0;
+        int n = row * col;
+        int TOP = n, BOTTOM = n + 1;
+
+        parent.resize(n + 2);
+        rank.resize(n + 2, 0);
+        for (int i = 0; i < n + 2; i++) parent[i] = i;
+
+        vector<vector<int>> grid(row, vector<int>(col, 1));
         vector<int> dir = {0, 1, 0, -1, 0};
 
-        auto canCross = [&](int day) {
-            vector<vector<int>> grid(row, vector<int>(col, 0));
-            for (int i = 0; i < day; i++)
-                grid[cells[i][0]-1][cells[i][1]-1] = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            int r = cells[i][0] - 1;
+            int c = cells[i][1] - 1;
+            grid[r][c] = 0;
 
-            queue<pair<int,int>> q;
-            vector<vector<bool>> vis(row, vector<bool>(col, false));
+            int id = r * col + c;
 
-            for (int j = 0; j < col; j++) {
-                if (grid[0][j] == 0) {
-                    q.push({0, j});
-                    vis[0][j] = true;
+            if (r == 0) unite(id, TOP);
+            if (r == row - 1) unite(id, BOTTOM);
+
+            for (int d = 0; d < 4; d++) {
+                int nr = r + dir[d], nc = c + dir[d + 1];
+                if (nr >= 0 && nr < row && nc >= 0 && nc < col &&
+                    grid[nr][nc] == 0) {
+                    unite(id, nr * col + nc);
                 }
             }
 
-            while (!q.empty()) {
-                auto [r, c] = q.front(); q.pop();
-                if (r == row - 1) return true;
-
-                for (int k = 0; k < 4; k++) {
-                    int nr = r + dir[k], nc = c + dir[k+1];
-                    if (nr >= 0 && nr < row && nc >= 0 && nc < col &&
-                        !vis[nr][nc] && grid[nr][nc] == 0) {
-                        vis[nr][nc] = true;
-                        q.push({nr, nc});
-                    }
-                }
-            }
-            return false;
-        };
-
-        while (lo <= hi) {
-            int mid = (lo + hi) / 2;
-            if (canCross(mid)) {
-                ans = mid;
-                lo = mid + 1;
-            } else {
-                hi = mid - 1;
-            }
+            if (find(TOP) == find(BOTTOM))
+                return i;
         }
-        return ans;
+        return 0;
     }
 };

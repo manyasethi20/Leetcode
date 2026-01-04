@@ -54,6 +54,7 @@ A collection of LeetCode questions.
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/manyasethi20/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manyasethi20/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/manyasethi20/Leetcode/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions.
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0840-magic-squares-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/manyasethi20/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manyasethi20/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/manyasethi20/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/manyasethi20/Leetcode/tree/master/1925-count-square-sum-triples) |

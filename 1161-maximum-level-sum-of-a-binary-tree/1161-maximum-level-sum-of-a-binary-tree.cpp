@@ -11,28 +11,33 @@
  */
 class Solution {
 public:
-    unordered_map<int, long long> mp;
-    int maxDepth = 0;
-
-    void dfs(TreeNode* node, int depth) {
-        if (!node) return;
-        mp[depth] += node->val;
-        maxDepth = max(maxDepth, depth);
-        dfs(node->left, depth + 1);
-        dfs(node->right, depth + 1);
-    }
-
     int maxLevelSum(TreeNode* root) {
-        dfs(root, 1);
+        queue<TreeNode*> q;
+        q.push(root);
 
-        long long maxSum = LLONG_MIN;
+        int level = 1;
         int ans = 1;
+        long long maxSum = LLONG_MIN;
 
-        for (int i = 1; i <= maxDepth; i++) {
-            if (mp[i] > maxSum) {
-                maxSum = mp[i];
-                ans = i;
+        while (!q.empty()) {
+            int sz = q.size();
+            long long sum = 0;
+
+            for (int i = 0; i < sz; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+                sum += node->val;
+
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
             }
+
+            if (sum > maxSum) {
+                maxSum = sum;
+                ans = level;
+            }
+
+            level++;
         }
 
         return ans;

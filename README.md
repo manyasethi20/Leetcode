@@ -126,6 +126,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/manyasethi20/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manyasethi20/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/manyasethi20/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/manyasethi20/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manyasethi20/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/manyasethi20/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Union Find
 |  |
@@ -362,4 +364,5 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manyasethi20/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/manyasethi20/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->

@@ -10,29 +10,23 @@
  * };
  */
 class Solution {
-    int maxDepth = 0;
+    pair<TreeNode*, int> dfs(TreeNode* root) {
+        if (!root) return {nullptr, 0};
 
-    void findDepth(TreeNode* root, int depth) {
-        if (!root) return;
-        maxDepth = max(maxDepth, depth);
-        findDepth(root->left, depth + 1);
-        findDepth(root->right, depth + 1);
-    }
+        auto left = dfs(root->left);
+        auto right = dfs(root->right);
 
-    TreeNode* lcaDeepest(TreeNode* root, int depth) {
-        if (!root) return nullptr;
-        if (depth == maxDepth) return root;
+        if (left.second > right.second)
+            return {left.first, left.second + 1};
+        if (right.second > left.second)
+            return {right.first, right.second + 1};
 
-        TreeNode* left = lcaDeepest(root->left, depth + 1);
-        TreeNode* right = lcaDeepest(root->right, depth + 1);
-
-        if (left && right) return root;
-        return left ? left : right;
+        // equal depth
+        return {root, left.second + 1};
     }
 
 public:
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        findDepth(root, 0);
-        return lcaDeepest(root, 0);
+        return dfs(root).first;
     }
 };

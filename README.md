@@ -64,6 +64,7 @@ A collection of LeetCode questions.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manyasethi20/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manyasethi20/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manyasethi20/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manyasethi20/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manyasethi20/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3531-count-covered-buildings](https://github.com/manyasethi20/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 ## Depth-First Search
@@ -316,6 +318,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0204-count-primes](https://github.com/manyasethi20/Leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/manyasethi20/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manyasethi20/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Counting
 |  |
 | ------- |

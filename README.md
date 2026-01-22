@@ -75,6 +75,7 @@ A collection of LeetCode questions.
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/manyasethi20/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/manyasethi20/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/manyasethi20/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/manyasethi20/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions.
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manyasethi20/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/manyasethi20/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 ## Depth-First Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions.
 | [0289-game-of-life](https://github.com/manyasethi20/Leetcode/tree/master/0289-game-of-life) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions.
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -416,4 +420,16 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/manyasethi20/Leetcode/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

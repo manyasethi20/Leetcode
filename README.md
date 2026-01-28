@@ -84,6 +84,7 @@ A collection of LeetCode questions.
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/manyasethi20/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manyasethi20/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/manyasethi20/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manyasethi20/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions.
 | [1895-largest-magic-square](https://github.com/manyasethi20/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manyasethi20/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/manyasethi20/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/manyasethi20/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/manyasethi20/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Divide and Conquer
 |  |
 | ------- |

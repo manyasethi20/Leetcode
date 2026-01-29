@@ -70,6 +70,7 @@ A collection of LeetCode questions.
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manyasethi20/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/manyasethi20/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manyasethi20/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manyasethi20/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manyasethi20/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/manyasethi20/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/manyasethi20/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/manyasethi20/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/manyasethi20/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -448,9 +450,11 @@ A collection of LeetCode questions.
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/manyasethi20/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/manyasethi20/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/manyasethi20/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/manyasethi20/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->

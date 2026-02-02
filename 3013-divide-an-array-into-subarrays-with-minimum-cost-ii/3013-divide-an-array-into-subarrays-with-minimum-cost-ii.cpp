@@ -1,69 +1,43 @@
-class Container {
-public:
-    Container(int k) : k(k), sm(0) {}
-
-    void adjust() {
-        while (st1.size() < k && st2.size() > 0) {
-            int x = *(st2.begin());
-            st1.emplace(x);
-            sm += x;
-            st2.erase(st2.begin());
-        }
-        while (st1.size() > k) {
-            int x = *prev(st1.end());
-            st2.emplace(x);
-            st1.erase(prev(st1.end()));
-            sm -= x;
-        }
-    }
-
-    void add(int x) {
-        if (!st2.empty() && x >= *(st2.begin())) {
-            st2.emplace(x);
-        } else {
-            st1.emplace(x);
-            sm += x;
-        }
-        adjust();
-    }
-
-    void erase(int x) {
-        auto it = st1.find(x);
-        if (it != st1.end()) {
-            st1.erase(it), sm -= x;
-        } else {
-            st2.erase(st2.find(x));
-        }
-        adjust();
-    }
-
-    long long sum() { return sm; }
-
-private:
-    int k;
-    multiset<int> st1, st2;
-    long long sm;
-};
-
 class Solution {
 public:
     long long minimumCost(vector<int>& nums, int k, int dist) {
         int n = nums.size();
-        Container cnt(k - 2);
-        for (int i = 1; i < k - 1; i++) {
-            cnt.add(nums[i]);
-        }
-
-        long long ans = cnt.sum() + nums[k - 1];
-        for (int i = k; i < n; i++) {
-            int j = i - dist - 1;
-            if (j > 0) {
-                cnt.erase(nums[j]);
+        auto comp = [&nums](int a, int b) {
+            if (nums[a] != nums[b]) return nums[a] < nums[b];
+            else return a < b;
+        };
+        set<int, decltype(comp)> lst(comp), rst(comp);
+        int l = 1, r = 1;
+        long long sums = 0, res = LLONG_MAX;
+        while (r < n) {
+            if (r - l > dist) {
+                auto it1 = lst.find(l);
+                if (it1 != lst.end()) {
+                    sums -= nums[*it1];
+                    lst.erase(it1);
+                }
+                auto it2 = rst.find(l);
+                if (it2 != rst.end()) {
+                    rst.erase(it2);
+                }
+                l++;
             }
-            cnt.add(nums[i - 1]);
-            ans = min(ans, cnt.sum() + nums[i]);
+            rst.insert(r);
+            if (lst.size() < k-1 || nums[*(rst.begin())] < nums[*(lst.rbegin())]) {
+                auto it = rst.begin();
+                lst.insert(*it);
+                sums += nums[*it];
+                rst.erase(it);
+            }
+            if (lst.size() >= k) {
+                auto it = prev(lst.end());
+                sums -= nums[*it];
+                rst.insert(*it);
+                lst.erase(it);
+            }
+            if (lst.size() == k-1) res = min(res,sums);
+            r++;
         }
-
-        return ans + nums[0];
+        return res + nums[0];
     }
 };

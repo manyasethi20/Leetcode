@@ -137,6 +137,7 @@ A collection of LeetCode questions.
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/manyasethi20/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/manyasethi20/Leetcode/tree/master/0383-ransom-note) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions.
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/manyasethi20/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/manyasethi20/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/manyasethi20/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |

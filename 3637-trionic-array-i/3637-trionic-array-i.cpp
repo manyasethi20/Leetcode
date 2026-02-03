@@ -1,19 +1,33 @@
 class Solution {
 public:
     bool isTrionic(vector<int>& nums) {
-        int n = nums.size(), i = 1;
-        while (i < n && nums[i - 1] < nums[i]) {
-            i++;
+        int n = nums.size();
+        int p,q;
+        if(n<=3)
+            return false;
+        for(p=1; p<n; p++)
+        {
+            if(nums[p] <= nums[p-1])
+                break;
         }
-        int p = i - 1;
-        while (i < n && nums[i - 1] > nums[i]) {
-            i++;
+        p--;
+        cout<<p<<" ";
+        if(p==0 || p>=n-2)
+            return false;
+        for(q = p+1; q<n-1; q++)
+        {
+            if(nums[q] >= nums[q-1])
+                break;
         }
-        int q = i - 1;
-        while (i < n && nums[i - 1] < nums[i]) {
-            i++;
+        q--;
+        cout<<q<<endl;
+        if(p==q || q==n-1)
+            return false;
+        for(int i = q; i<n-1; i++)
+        {
+            if(nums[i+1] <= nums[i])
+                return false;
         }
-        int flag = i - 1;
-        return (p != 0) && (q != p) && (flag == n - 1 && flag != q);
+        return true;
     }
 };

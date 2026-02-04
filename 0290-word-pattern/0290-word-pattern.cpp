@@ -8,18 +8,14 @@ public:
 
         if (pattern.size() != words.size()) return false;
 
-        unordered_map<char, string> p2w;
-        unordered_map<string, char> w2p;
+        unordered_map<char, int> p;
+        unordered_map<string, int> wmap;
 
         for (int i = 0; i < pattern.size(); i++) {
-            char c = pattern[i];
-            string word = words[i];
+            if (p[pattern[i]] != wmap[words[i]])
+                return false;
 
-            if (p2w.count(c) && p2w[c] != word) return false;
-            if (w2p.count(word) && w2p[word] != c) return false;
-
-            p2w[c] = word;
-            w2p[word] = c;
+            p[pattern[i]] = wmap[words[i]] = i + 1;
         }
         return true;
     }

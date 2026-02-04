@@ -1,53 +1,65 @@
 class Solution {
 public:
-    long long maxSumTrionic(vector<int>& nums) {
-        int n = nums.size();
-        int p, q, j;
-        long long max_sum, sum, res;
-        long long ans = LLONG_MIN;
 
-        for (int i = 0; i < n; i++) {
-            j = i + 1;
-            res = 0;
-
-            for (; j < n && nums[j - 1] < nums[j]; j++);
-            p = j - 1;
-            if (p == i) {
-                continue;
-            }
-
-            res += nums[p] + nums[p - 1];
-            for (; j < n && nums[j - 1] > nums[j]; j++) {
-                res += nums[j];
-            }
-            q = j - 1;
-            if (q == p || q == n - 1 || (nums[j] <= nums[q])) {
-                i = q;
-                continue;
-            }
-
-            res += nums[q + 1];
-
-            max_sum = 0;
-            sum = 0;
-            for (int k = q + 2; k < n && nums[k] > nums[k - 1]; k++) {
-                sum += nums[k];
-                max_sum = max(max_sum, sum);
-            }
-            res += max_sum;
-
-            max_sum = 0;
-            sum = 0;
-            for (int k = p - 2; k >= i; k--) {
-                sum += nums[k];
-                max_sum = max(max_sum, sum);
-            }
-            res += max_sum;
-
-            ans = max(ans, res);
-            i = q - 1;
+    long long dp[100001][3][2][2];
+    vector<int>a;
+    int n;
+    long long MN = -1e16;
+    long long INF = 1e16;
+    long long solve(int i , int state , int started, int have) {
+        if(state == 3) {
+            return 0;
+        }
+        if(i == n) {
+            return MN;
+        }
+        if(dp[i][state][started][have] != INF) {
+            return dp[i][state][started][have];
         }
 
-        return ans;
+        long long ans = -9e15;
+
+        if(!started) {
+            ans = max(ans,solve(i+1,state,started,0));
+            ans = max(ans,a[i] + solve(i+1,state,1,0));
+        }
+        if(started) {
+            if(state == 0) {
+
+                if(a[i] > a[i-1]) {
+                    ans = max(ans,a[i] + solve(i+1,state,1,1));
+                    ans = max(ans,a[i] + solve(i+1,state+1,1,0));
+                }
+            }
+            if(state == 1) {
+                if(a[i] < a[i-1]) {
+                    ans = max(ans,a[i] + solve(i+1,state,1,1));
+                    ans = max(ans,a[i] + solve(i+1,state+1,1,0));
+                }
+            }
+            if(state == 2) {
+                if(a[i] > a[i-1]) {
+                    ans = max(ans,a[i] + solve(i+1,state,1,1));
+                    ans = max(ans,a[i] + solve(i+1,state+1,1,0));
+                }
+            }
+        }
+        return dp[i][state][started][have] = ans;
+        
+    }
+    
+    long long maxSumTrionic(vector<int>& nums) {
+        a = nums;
+        n = (int)a.size();
+        for(int i = 0 ; i <= n ; i++) {
+            for(int j = 0 ; j < 3 ; j++) {
+                for(int k = 0 ; k < 2 ; k++) {
+                    for(int m = 0 ; m < 2 ; m++) {
+                     dp[i][j][k][m] = INF;
+                    }
+                }
+            }
+        }
+        return solve(0,0,0,0);
     }
 };

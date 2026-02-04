@@ -90,6 +90,7 @@ A collection of LeetCode questions.
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manyasethi20/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
 | [3637-trionic-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manyasethi20/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manyasethi20/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
@@ -210,6 +211,7 @@ A collection of LeetCode questions.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/manyasethi20/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/manyasethi20/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manyasethi20/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Divide and Conquer
 |  |

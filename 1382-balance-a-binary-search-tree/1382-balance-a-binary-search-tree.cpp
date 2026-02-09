@@ -11,25 +11,26 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<TreeNode*>& nodes) {
+    void inorder(TreeNode* root, vector<int>& v) {
         if (!root) return;
-        inorder(root->left, nodes);
-        nodes.push_back(root);
-        inorder(root->right, nodes);
+        inorder(root->left, v);
+        v.push_back(root->val);
+        inorder(root->right, v);
     }
 
-    TreeNode* build(int l, int r, vector<TreeNode*>& nodes) {
+    TreeNode* build(int l, int r, vector<int>& v) {
         if (l > r) return NULL;
-        int mid = l + (r - l) / 2;
-        TreeNode* root = nodes[mid];
-        root->left = build(l, mid - 1, nodes);
-        root->right = build(mid + 1, r, nodes);
-        return root;
+        int mid = (l + r) / 2;
+        return new TreeNode(
+            v[mid],
+            build(l, mid - 1, v),
+            build(mid + 1, r, v)
+        );
     }
 
     TreeNode* balanceBST(TreeNode* root) {
-        vector<TreeNode*> nodes;
-        inorder(root, nodes);
-        return build(0, nodes.size() - 1, nodes);
+        vector<int> v;
+        inorder(root, v);
+        return build(0, v.size() - 1, v);
     }
 };

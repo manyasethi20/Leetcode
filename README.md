@@ -95,6 +95,7 @@ A collection of LeetCode questions.
 | [3640-trionic-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manyasethi20/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manyasethi20/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/manyasethi20/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions.
 | [0053-maximum-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/manyasethi20/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions.
 | [1895-largest-magic-square](https://github.com/manyasethi20/Leetcode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/manyasethi20/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manyasethi20/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/manyasethi20/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |

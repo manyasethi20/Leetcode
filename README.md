@@ -244,6 +244,7 @@ A collection of LeetCode questions.
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manyasethi20/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manyasethi20/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/manyasethi20/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/manyasethi20/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0043-multiply-strings](https://github.com/manyasethi20/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/manyasethi20/Leetcode/tree/master/0289-game-of-life) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |

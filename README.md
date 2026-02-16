@@ -232,6 +232,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/manyasethi20/Leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/manyasethi20/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/manyasethi20/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0029-divide-two-integers](https://github.com/manyasethi20/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/manyasethi20/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |

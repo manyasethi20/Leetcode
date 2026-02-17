@@ -1,23 +1,14 @@
 class Solution {
 public:
     vector<string> readBinaryWatch(int turnedOn) {
-        vector<string> result;
-
-        for (int hour = 0; hour < 12; hour++) {
-            for (int minute = 0; minute < 60; minute++) {
-
-                int hourBits = __builtin_popcount(hour);
-                int minuteBits = __builtin_popcount(minute);
-
-                if (hourBits + minuteBits == turnedOn) {
-                    string time = to_string(hour) + ":";
-                    if (minute < 10)
-                        time += "0";
-                    time += to_string(minute);
-                    result.push_back(time);
+        vector<string> ans;
+        for (int h = 0; h < 12; ++h) {
+            for (int m = 0; m < 60; ++m) {
+                if (__builtin_popcount(h) + __builtin_popcount(m) == turnedOn) {
+                    ans.push_back(to_string(h) + ":" + (m < 10 ? "0" : "") + to_string(m));
                 }
             }
         }
-        return result;
+        return ans;
     }
 };

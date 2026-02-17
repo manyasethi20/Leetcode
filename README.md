@@ -286,6 +286,7 @@ A collection of LeetCode questions.
 | [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/manyasethi20/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/manyasethi20/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions.
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/manyasethi20/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Tree
 |  |

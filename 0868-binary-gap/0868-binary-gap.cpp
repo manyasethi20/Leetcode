@@ -1,15 +1,13 @@
 class Solution {
 public:
     int binaryGap(int n) {
-        int last = -1;
-        int pos = 0;
-        int ans = 0;
+        int prev = -1, ans = 0, pos = 0;
 
         while(n){
             if(n & 1){
-                if(last != -1)
-                    ans = max(ans, pos - last);
-                last = pos;
+                if(prev != -1)
+                    ans = max(ans, pos - prev);
+                prev = pos;
             }
             n >>= 1;
             pos++;

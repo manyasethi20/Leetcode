@@ -1,21 +1,29 @@
 class Solution {
 public:
-    int numSteps(string s) {
-        int n = s.size();
-        int steps = 0;
-        int carry = 0;
-
-        for (int i = n - 1; i > 0; i--) {
-            int bit = (s[i] - '0') + carry;
-
-            if (bit == 1) {
-                steps += 2;
-                carry = 1;
-            } else {
-                steps += 1;
-            }
+    string addOne(string s) {
+        int i = s.size() - 1;
+        while (i >= 0 && s[i] == '1') {
+            s[i] = '0';
+            i--;
         }
+        if (i >= 0) {
+            s[i] = '1';
+        } else {
+            s = '1' + s;
+        }
+        return s;
+    }
 
-        return steps + carry;
+    int numSteps(string s) {
+        int steps = 0;
+        while (s != "1") {
+            if (s.back() == '0') {
+                s.pop_back();          
+            } else {
+                s = addOne(s);        
+            }
+            steps++;
+        }
+        return steps;
     }
 };

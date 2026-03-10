@@ -239,6 +239,7 @@ A collection of LeetCode questions.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/manyasethi20/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/manyasethi20/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/manyasethi20/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/manyasethi20/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/manyasethi20/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions.
 | [1895-largest-magic-square](https://github.com/manyasethi20/Leetcode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/manyasethi20/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/manyasethi20/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/manyasethi20/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manyasethi20/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/manyasethi20/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/manyasethi20/Leetcode/tree/master/3719-longest-balanced-subarray-i) |

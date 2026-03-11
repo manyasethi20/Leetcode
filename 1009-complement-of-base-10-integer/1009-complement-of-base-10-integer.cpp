@@ -4,14 +4,13 @@ public:
 
         if(n == 0) return 1;
 
-        int mask = 0;
-        int temp = n;
+        int mask = 1;
 
-        while(temp > 0){
-            mask = (mask << 1) | 1;
-            temp >>= 1;
-        }
+        while(mask <= n)
+            mask <<= 1;
 
-        return (~n) & mask;
+        mask -= 1;
+
+        return mask - n;
     }
 };

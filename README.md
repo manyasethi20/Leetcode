@@ -81,6 +81,7 @@ A collection of LeetCode questions.
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2906-construct-product-matrix](https://github.com/manyasethi20/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manyasethi20/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/manyasethi20/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions.
 | [1895-largest-magic-square](https://github.com/manyasethi20/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manyasethi20/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manyasethi20/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/manyasethi20/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/manyasethi20/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/manyasethi20/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/manyasethi20/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/manyasethi20/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/manyasethi20/Leetcode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/manyasethi20/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2906-construct-product-matrix](https://github.com/manyasethi20/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/manyasethi20/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/manyasethi20/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/manyasethi20/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |

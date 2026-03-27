@@ -6,22 +6,19 @@ public:
 
         int shift = k % n;
 
-        vector<vector<int>> result = mat;
-
         for (int i = 0; i < m; i++) {
-            vector<int> newRow(n);
-
             for (int j = 0; j < n; j++) {
+
                 if (i % 2 == 0) {
-                    newRow[j] = mat[i][(j + shift) % n];
+                    if (mat[i][j] != mat[i][(j + shift) % n])
+                        return false;
                 } else {
-                    newRow[j] = mat[i][(j - shift + n) % n];
+                    if (mat[i][j] != mat[i][(j - shift + n) % n])
+                        return false;
                 }
             }
-
-            result[i] = newRow;
         }
 
-        return result == mat;
+        return true;
     }
 };

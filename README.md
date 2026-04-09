@@ -271,6 +271,7 @@ A collection of LeetCode questions.
 | [0045-jump-game-ii](https://github.com/manyasethi20/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/manyasethi20/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manyasethi20/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/manyasethi20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/manyasethi20/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/manyasethi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manyasethi20/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions.
 | [0048-rotate-image](https://github.com/manyasethi20/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manyasethi20/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/manyasethi20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
@@ -702,4 +704,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/manyasethi20/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manyasethi20/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

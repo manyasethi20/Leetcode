@@ -133,6 +133,7 @@ A collection of LeetCode questions.
 | [3721-longest-balanced-subarray-ii](https://github.com/manyasethi20/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manyasethi20/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/manyasethi20/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manyasethi20/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions.
 | [3721-longest-balanced-subarray-ii](https://github.com/manyasethi20/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manyasethi20/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/manyasethi20/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manyasethi20/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/manyasethi20/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/manyasethi20/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manyasethi20/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manyasethi20/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |

@@ -361,6 +361,7 @@ A collection of LeetCode questions.
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manyasethi20/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manyasethi20/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manyasethi20/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/manyasethi20/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |

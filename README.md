@@ -84,6 +84,7 @@ A collection of LeetCode questions.
 | [1980-find-unique-binary-string](https://github.com/manyasethi20/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manyasethi20/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/manyasethi20/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/manyasethi20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/manyasethi20/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manyasethi20/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/manyasethi20/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/manyasethi20/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/manyasethi20/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manyasethi20/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manyasethi20/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |

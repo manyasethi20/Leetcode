@@ -469,6 +469,7 @@ A collection of LeetCode questions.
 | [0058-length-of-last-word](https://github.com/manyasethi20/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manyasethi20/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/manyasethi20/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manyasethi20/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/manyasethi20/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manyasethi20/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/manyasethi20/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/manyasethi20/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manyasethi20/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/manyasethi20/Leetcode/tree/master/2751-robot-collisions) |

@@ -155,6 +155,7 @@ A collection of LeetCode questions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manyasethi20/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/manyasethi20/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/manyasethi20/Leetcode/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manyasethi20/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |

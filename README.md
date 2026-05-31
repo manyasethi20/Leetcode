@@ -95,6 +95,7 @@ A collection of LeetCode questions.
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manyasethi20/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manyasethi20/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/manyasethi20/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/manyasethi20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manyasethi20/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manyasethi20/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/manyasethi20/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manyasethi20/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/manyasethi20/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/manyasethi20/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manyasethi20/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manyasethi20/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manyasethi20/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/manyasethi20/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/manyasethi20/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/manyasethi20/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/manyasethi20/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/manyasethi20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/manyasethi20/Leetcode/tree/master/2751-robot-collisions) |

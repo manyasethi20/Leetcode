@@ -49,6 +49,7 @@ A collection of LeetCode questions.
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/manyasethi20/Leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/manyasethi20/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/manyasethi20/Leetcode/tree/master/0396-rotate-function) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manyasethi20/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manyasethi20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manyasethi20/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/manyasethi20/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/manyasethi20/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manyasethi20/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |

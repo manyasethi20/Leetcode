@@ -27,6 +27,7 @@ A collection of LeetCode questions.
 | [0066-plus-one](https://github.com/manyasethi20/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/manyasethi20/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/manyasethi20/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/manyasethi20/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions.
 | [0031-next-permutation](https://github.com/manyasethi20/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manyasethi20/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/manyasethi20/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/manyasethi20/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manyasethi20/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/manyasethi20/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions.
 | [0015-3sum](https://github.com/manyasethi20/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manyasethi20/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manyasethi20/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/manyasethi20/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manyasethi20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |

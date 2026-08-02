@@ -65,6 +65,7 @@ A collection of LeetCode questions.
 | [0944-delete-columns-to-make-sorted](https://github.com/manyasethi20/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/manyasethi20/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/manyasethi20/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/manyasethi20/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manyasethi20/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/manyasethi20/Leetcode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manyasethi20/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/manyasethi20/Leetcode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/manyasethi20/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manyasethi20/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manyasethi20/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manyasethi20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/manyasethi20/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manyasethi20/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/manyasethi20/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions.
 | [0076-minimum-window-substring](https://github.com/manyasethi20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/manyasethi20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/manyasethi20/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manyasethi20/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manyasethi20/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manyasethi20/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

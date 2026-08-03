@@ -63,6 +63,7 @@ A collection of LeetCode questions.
 | [0792-binary-search](https://github.com/manyasethi20/Leetcode/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/manyasethi20/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/manyasethi20/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/manyasethi20/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/manyasethi20/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/manyasethi20/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions.
 | [0840-magic-squares-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manyasethi20/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/manyasethi20/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/manyasethi20/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manyasethi20/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manyasethi20/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions.
 | [0209-minimum-size-subarray-sum](https://github.com/manyasethi20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/manyasethi20/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/manyasethi20/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/manyasethi20/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manyasethi20/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manyasethi20/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

@@ -68,6 +68,7 @@ A collection of LeetCode questions.
 | [0944-delete-columns-to-make-sorted](https://github.com/manyasethi20/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/manyasethi20/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/manyasethi20/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/manyasethi20/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manyasethi20/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/manyasethi20/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manyasethi20/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/manyasethi20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/manyasethi20/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/manyasethi20/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manyasethi20/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manyasethi20/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manyasethi20/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0169-majority-element](https://github.com/manyasethi20/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/manyasethi20/Leetcode/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/manyasethi20/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manyasethi20/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/manyasethi20/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/manyasethi20/Leetcode/tree/master/3583-count-special-triplets) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions.
 | [0239-sliding-window-maximum](https://github.com/manyasethi20/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/manyasethi20/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/manyasethi20/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/manyasethi20/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manyasethi20/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manyasethi20/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

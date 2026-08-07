@@ -59,6 +59,7 @@ A collection of LeetCode questions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/manyasethi20/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/manyasethi20/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manyasethi20/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/manyasethi20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manyasethi20/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manyasethi20/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manyasethi20/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions.
 | [0290-word-pattern](https://github.com/manyasethi20/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/manyasethi20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/manyasethi20/Leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/manyasethi20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/manyasethi20/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/manyasethi20/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manyasethi20/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manyasethi20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manyasethi20/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/manyasethi20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manyasethi20/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manyasethi20/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/manyasethi20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
